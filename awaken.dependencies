@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "awaken",
+    "repository": "android_device_xiaomi_sdm8350-common",
+    "target_path": "device/xiaomi/sm8350-common",
+    "branch": "triton"
+  },
+  {
+    "remote": "awaken",
+    "repository": "android_device_xiaomi_lisa",
+    "target_path": "device/xiaomi/lisa",
+    "branch": "triton"
+  },
+  {
+    "remote": "awaken",
+    "repository": "android_kernel_xiaomi_sm8350",
+    "target_path": "kernel/xiaomi/sdm8350",
+    "branch": "triton"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-19.1"
+  }
+]
